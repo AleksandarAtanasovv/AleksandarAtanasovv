@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on learning Javascript
-- 🌱 I’m currently learning Javascript
+- 🔭 I’m currently working on learning JavaScript
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: sashooou1@gmail.com
 - ⚡ Fun fact: coding is fun :D
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakinaa782&theme=dark&show_icons=true)
