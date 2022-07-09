@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on learning JavaScript @ softuni.bg<br>🌱 I’m currently learning JavaScript<br>⚡ Fun fact coding is fun :D<br>📫 How to reach me sashooou1@gmail.com
+🔭 I’m currently working on learning JavaScript @ [softuni.bg](https://softuni.bg/)<br>🌱 I’m currently learning JavaScript<br>⚡ Fun fact coding is fun :D<br>📫 How to reach me sashooou1@gmail.com
 
 
 # 💻 Tech Stack:
