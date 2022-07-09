@@ -7,7 +7,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sakinaa782&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sakinaa782&theme=tokyonight&hide_border=false)<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakinaa782&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="stats" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakinaa782&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="stats" width="495"/>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sakinaa782&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
